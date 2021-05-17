@@ -1,0 +1,51 @@
+@import url("//at.alicdn.com/t/font_2323320_esoozwtmq9.css");
+
+
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.h100vh{
+	height: 100vh;
+}
+.page-body{
+	height: calc(100vh - 44px);
+	
+}
+.page-body-tab{
+	height: calc(100vh - 94px);
+}
+.flex{
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+.j-c{
+	justify-content: center;
+}
+.j-s{
+	justify-content: space-between;
+}
+.a-c{
+	align-items: center;
+}
+.flex-col{
+	flex-direction: column;
+}
+.a-s{
+	align-content: space-between;
+}
+.bold{
+	font-weight: bold;
+}
+.font16{
+	font-size: 32rpx;
+}
+
+.c-m{
+	color: red;
+}
+.c-d{
+	color: #999;
+}
